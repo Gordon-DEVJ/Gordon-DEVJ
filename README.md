@@ -1,6 +1,6 @@
 👋 ¡Hola! Soy [Tu Nombre]
 🚀 Sobre mí
-
+https://badgen.net/badge/:subject/:status/:color?icon=github
 🎓 Soy estudiante de [tu carrera, ej. Ingeniería en Sistemas], apasionado por [áreas de interés, ej. desarrollo de software, inteligencia artificial, etc.].
 
 💡 Me encanta aprender nuevas tecnologías y aplicar mis conocimientos en proyectos innovadores.
