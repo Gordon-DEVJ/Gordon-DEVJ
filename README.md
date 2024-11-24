@@ -14,8 +14,7 @@ Soy estudiante de Ingenieria de Sistemas, apasionado por el modelado 3d, desarro
 
 📈 Estadísticas de GitHub
 
-![Gordon-DEVJ's Stats](https://github-readme-stats.vercel.app/api?username=Gordon-DEVJ&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![Gordon-DEVJ's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gordon-DEVJ&theme=vue-dark&hide_border=true)
+![Gordon-DEVJ's Stats](https://github-readme-stats.vercel.app/api?username=Gordon-DEVJ&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)![Gordon-DEVJ's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gordon-DEVJ&theme=vue-dark&hide_border=true)
 
 
 🌱 ¿En qué estoy trabajando ahora?
