@@ -12,7 +12,7 @@ Soy estudiante de Ingenieria de Sistemas, apasionado por el modelado 3d, desarro
 📈 Estadísticas de GitHub
 
 <div align="center">
-   <img width="824" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gordon-DEVJ&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" />
+   <img width="624" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gordon-DEVJ&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" />
 </div>
 
 <div align="center">
