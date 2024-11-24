@@ -12,12 +12,12 @@ Soy estudiante de Ingenieria de Sistemas, apasionado por el modelado 3d, desarro
 📈 Estadísticas de GitHub
 
 <div align="center">
-   <img width="624" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gordon-DEVJ&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" />
+   <img width="824" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gordon-DEVJ&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" />
 </div>
 
 <div align="center">
-   <img width="300" src="https://github-readme-stats.vercel.app/api?username=Gordon-DEVJ&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
-   <img width="324" src="https://github-readme-streak-stats.herokuapp.com/?user=Gordon-DEVJ&theme=vue-dark&hide_border=true" />
+   <img width="400" src="https://github-readme-stats.vercel.app/api?username=Gordon-DEVJ&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
+   <img width="424" src="https://github-readme-streak-stats.herokuapp.com/?user=Gordon-DEVJ&theme=vue-dark&hide_border=true" />
 </div>
 
     ![Gordon-DEVJ's Stats](https://github-readme-stats.vercel.app/api?username=Gordon-DEVJ&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)![Gordon-DEVJ's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gordon-DEVJ&theme=vue-dark&hide_border=true)![Gordon-DEVJ's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gordon-DEVJ&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
