@@ -5,7 +5,7 @@ Soy estudiante de Ingenieria de Sistemas, apasionado por el modelado 3d, desarro
 💻 Tecnologías y herramientas
 <br>
 
-    Lenguajes de programación: Python, Java, JS
+    Lenguajes de programación: Python, Java, JavaScript, GDscript
     Frameworks y bibliotecas: Django, Angular
     Herramientas: Git, Docker, Figma, VsCode
     Otras habilidades: Bases de datos, diseño UX/UI, Modelado 3D, Videojuegos
