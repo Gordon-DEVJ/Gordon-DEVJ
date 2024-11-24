@@ -2,6 +2,7 @@
 
 Soy estudiante de Ingenieria de Sistemas, apasionado por el modelado 3d, desarrollo de software, desarrollo web e inteligencia artificial.
 
+<hr style="border:15px;">
 💻 Tecnologías y herramientas
 
     Lenguajes de programación: Python, Java, JS
@@ -9,8 +10,9 @@ Soy estudiante de Ingenieria de Sistemas, apasionado por el modelado 3d, desarro
     Herramientas: Git, Docker, Figma, VsCode
     Otras habilidades: Bases de datos, diseño UX/UI, Modelado 3D, Videojuegos
 
-📈 Estadísticas de GitHub
 <hr style="border:15px;">
+📈 Estadísticas de GitHub
+
 <div align="center">
    <img width="824" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gordon-DEVJ&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" />
 </div>
