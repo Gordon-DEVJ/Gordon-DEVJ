@@ -1,24 +1,21 @@
-👋 ¡Hola! Soy [Tu Nombre]
-🚀 Sobre mí
-https://badgen.net/badge/:subject/:status/:color?icon=github
-🎓 Soy estudiante de [tu carrera, ej. Ingeniería en Sistemas], apasionado por [áreas de interés, ej. desarrollo de software, inteligencia artificial, etc.].
+¡Hola! Soy Carlos
 
-💡 Me encanta aprender nuevas tecnologías y aplicar mis conocimientos en proyectos innovadores.
-
-🌍 Actualmente, estoy trabajando en [proyectos actuales o áreas de especialización, ej. aplicaciones móviles, modelado 3D].
+Soy estudiante de Ingenieria de Sistemas, apasionado por el modelado 3d, desarrollo de software, desarrollo web e inteligencia artificial.
 
 💻 Tecnologías y herramientas
 
-    Lenguajes de programación: [Ej. Python, JavaScript, C++]
-    Frameworks y bibliotecas: [Ej. React, TensorFlow]
-    Herramientas: [Ej. Git, Docker, Figma]
-    Otras habilidades: [Ej. Bases de datos, diseño UX/UI]
+![Gordon-DEVJ's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gordon-DEVJ&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
-📂 Proyectos destacados
-Proyecto	Descripción	Tecnologías
-Nombre del proyecto	Breve descripción del proyecto.	Lenguajes y herramientas usadas.
-Nombre del proyecto	Breve descripción del proyecto.	Lenguajes y herramientas usadas.
+    Lenguajes de programación: Python, Java, JS
+    Frameworks y bibliotecas: Django, Angular
+    Herramientas: Git, Docker, Figma, VsCode
+    Otras habilidades: Bases de datos, diseño UX/UI, Modelado 3D, Videojuegos
+
+
 📈 Estadísticas de GitHub
+
+![Gordon-DEVJ's Stats](https://github-readme-stats.vercel.app/api?username=Gordon-DEVJ&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Gordon-DEVJ's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gordon-DEVJ&theme=vue-dark&hide_border=true)
 
 
 🌱 ¿En qué estoy trabajando ahora?
@@ -29,6 +26,6 @@ Nombre del proyecto	Breve descripción del proyecto.	Lenguajes y herramientas us
 
 📫 Contáctame
 
-    Correo: tu-email@dominio.com
+    Correo: Pronto
     LinkedIn: TuPerfil
-    Portafolio: Tu Sitio Web
+    Portafolio: Proximamente
