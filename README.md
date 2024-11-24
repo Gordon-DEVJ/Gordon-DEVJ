@@ -8,7 +8,7 @@ I am a Systems Engineering student, passionate about 3D modeling, software devel
     Programming languages: Python, Java, JavaScript, GDscript
     Frameworks and libraries: Django, Angular
     Tools: Git, Docker, Figma, VsCode
-    Other skills: Bases de datos, diseño UX/UI, Modelado 3D, Videojuegos
+    Other skills: Databases, UX/UI design, 3D modeling, Video games
 
 📈 GitHub Statistics<br>
 <br>
