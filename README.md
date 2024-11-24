@@ -1,16 +1,16 @@
-<h1>¡Hola! Soy Carlos</h1>
+<h1>Hello! I'm Carlos</h1>
 
 Soy estudiante de Ingenieria de Sistemas, apasionado por el modelado 3d, desarrollo de software, desarrollo web e inteligencia artificial.
 
-💻 Tecnologías y herramientas
+💻 Technologies and tools
 <br>
 
-    Lenguajes de programación: Python, Java, JavaScript, GDscript
-    Frameworks y bibliotecas: Django, Angular
-    Herramientas: Git, Docker, Figma, VsCode
-    Otras habilidades: Bases de datos, diseño UX/UI, Modelado 3D, Videojuegos
+    Programming languages: Python, Java, JavaScript, GDscript
+    Frameworks and libraries: Django, Angular
+    Tools: Git, Docker, Figma, VsCode
+    Other skills: Bases de datos, diseño UX/UI, Modelado 3D, Videojuegos
 
-📈 Estadísticas de GitHub<br>
+📈 GitHub Statistics<br>
 <br>
 
 <div align="center">
