@@ -1,4 +1,4 @@
-<h2>¡Hola! Soy Carlos</h2>
+<h1>¡Hola! Soy Carlos</h1>
 
 Soy estudiante de Ingenieria de Sistemas, apasionado por el modelado 3d, desarrollo de software, desarrollo web e inteligencia artificial.
 
