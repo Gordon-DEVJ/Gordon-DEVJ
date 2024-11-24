@@ -2,7 +2,7 @@
 
 Soy estudiante de Ingenieria de Sistemas, apasionado por el modelado 3d, desarrollo de software, desarrollo web e inteligencia artificial.
 
-<hr>
+<hr style="border:2px;">
 💻 Tecnologías y herramientas
 <br><br>
 
@@ -11,7 +11,7 @@ Soy estudiante de Ingenieria de Sistemas, apasionado por el modelado 3d, desarro
     Herramientas: Git, Docker, Figma, VsCode
     Otras habilidades: Bases de datos, diseño UX/UI, Modelado 3D, Videojuegos
 
-<hr style="border:5px;">
+<hr style="border:2px;">
 📈 Estadísticas de GitHub<br>
 <br><br>
 
