@@ -1,6 +1,6 @@
 <h1>Hello! I'm Carlos</h1>
 
-Soy estudiante de Ingenieria de Sistemas, apasionado por el modelado 3d, desarrollo de software, desarrollo web e inteligencia artificial.
+I am a Systems Engineering student, passionate about 3D modeling, software development, web development, and artificial intelligence.
 
 💻 Technologies and tools
 <br>
